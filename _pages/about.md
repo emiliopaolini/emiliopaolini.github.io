@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is Emilio Paolini's homepage! Have fun ;)
+I'm currently a master Artificial Intelligence and Data Engineering student at University of Pisa.
