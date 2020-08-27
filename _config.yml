@@ -83,7 +83,7 @@ author:
   bio              : "Artificial Intelligence and Data Engineering master student @ UniPi"
   location         : "Pisa, Italy"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "paolini.emilio5@gmail.com"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/emilio-paolini-779319102/"
   orcid            : 
   pinterest        :
   soundcloud       :
