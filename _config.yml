@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://emiliopaolini.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "emiliopaolini/emiliopaolini.github.io"
-teaser                   :  bio-photo.jpg
+teaser                   : # bio-photo.jpg
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
