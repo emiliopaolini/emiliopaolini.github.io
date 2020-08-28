@@ -23,13 +23,16 @@ Work experience
 * Summer 2015: Training Placement
   * Nico Group, Belfast
   * Duties included:  Maintenance and development of a website, managing IT Systems and customer service
-  * Supervisor: Professor Hub
+  * <a href="https://emiliopaolini.github.io/files/certificates/NicoGroup_certificate.pdf">Certificate</a>
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Mining and Machine Learning
+* Cloud Computing
+  * Hadoop
+  * Spark
+* Python
+* Java
+* Databases
+* R
+* MatLab
