@@ -19,11 +19,11 @@ Work experience
 * February 2016: Internship  
   * New York University Abu Dhabi
   * Worked on a project related to social network and voting
-  * <a href="https://emiliopaolini.github.io/files/certificates/NYU_certificate.pdf">Certificate</a>
+  * <span style="color: red;"><a href="https://emiliopaolini.github.io/files/certificates/NYU_certificate.pdf">Certificate</a></span>
 * Summer 2015: Training Placement
   * Nico Group, Belfast
   * Duties included:  Maintenance and development of a website, managing IT Systems and customer service
-  * <a href="https://emiliopaolini.github.io/files/certificates/NicoGroup_certificate.pdf">Certificate</a>
+  * <span style="color: red;"><a href="https://emiliopaolini.github.io/files/certificates/NicoGroup_certificate.pdf">Certificate</a></span>
 
 Skills
 ======
