@@ -27,7 +27,8 @@ Work experience
 
 Skills
 ======
-* Data Mining and Machine Learning
+* Data Mining  
+* Machine Learning
 * Cloud Computing
   * Hadoop
   * Spark
