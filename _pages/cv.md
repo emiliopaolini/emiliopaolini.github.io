@@ -11,22 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* BSc in Computer Engineering, University of Pisa, 110/110 cum laude, 2019
+* MSc in Artificial Intelligence and Data Engineering, University of Pisa, 2019-ongoing
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* February 2016: Internship  
+  * New York University Abu Dhabi
+  * Worked on a project related to social network and voting
+  * <a href="https://emiliopaolini.github.io/files/certificates/NYU_certificate.pdf">Certificate</a>
+* Summer 2015: Training Placement
+  * Nico Group, Belfast
+  * Duties included:  Maintenance and development of a website, managing IT Systems and customer service
   * Supervisor: Professor Hub
-  
+
 Skills
 ======
 * Skill 1
@@ -35,25 +33,3 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
