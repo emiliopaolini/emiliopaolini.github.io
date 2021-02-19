@@ -1,18 +1,14 @@
 ---
 title: "Web search Engine based on features extracted from art images, which works efficiently thanks to a Vantage Point Tree Index implementation."
-excerpt: "Projects about PCA, Linear Regression, Classification and Time Series made for Statistics class."
+excerpt: ""
 collection: portfolio
 ---
 
-The first project is about PCA and Linear Regression.<br />
-<a href="https://emiliopaolini.github.io/files/statistica1/script.zip">Python script for data + R script</a><br />
-<a href="https://emiliopaolini.github.io/files/statistica1/tabelle.zip">Data</a><br />
-<a href="https://emiliopaolini.github.io/files/statistica1/documentation.pdf">Documentation</a><br />
-The second project is about Classification.<br />
-<a href="https://emiliopaolini.github.io/files/statistica2/script.zip">Python script for data + R script</a><br />
-<a href="https://emiliopaolini.github.io/files/statistica2/tabella.csv">Data</a><br />
-<a href="https://emiliopaolini.github.io/files/statistica1/documentation.pdf">Documentation</a><br />
-The third project is about Time Series.<br />
-<a href="https://emiliopaolini.github.io/files/statistica3/script.R">R script</a><br />
-<a href="https://emiliopaolini.github.io/files/statistica3/tabelle.zip">Data</a><br />
-<a href="https://emiliopaolini.github.io/files/statistica3/documentation.pdf">Documentation</a><br />
+The aim of this project is to build a Web Search Engine based on features extracted from art images, which works efficiently thanks to a Vantage Point Tree Index implementation.<br />
+The list of images that can be retrieved are contained in the “Art Dataset”, a dataset split into five classes (“Drawings”, “Engraving”, “Iconography”, “Paintings” and “Sculpture”), and in a “Distractor Dataset”, based on the Mirflickr25k dataset.<br />
+For features extraction a Convolutional Neural Network has been used. Two models have been used: one is based on a Pre-Trained Network (“InceptionV3”) with weights computed on “Imagenet” and the other one is a fine-tuned version of the same Pre-Trained Network through the “Art Dataset”. <br />
+The VPtree is used to run efficiently k-NN and range queries on the features extracted.
+<br />
+<a href="https://emiliopaolini.github.io/files/mircv/Final_notebook.ipynb">Colab Notebook</a><br />
+<a href="https://emiliopaolini.github.io/files/mircv/documentation.pdf">Documentation</a><br />
+<a href="https://emiliopaolini.github.io/files/mircv/project_files.zip">Web Search Engine (built using Flask)</a><br />
