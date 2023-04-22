@@ -21,8 +21,5 @@ social: true  # includes social icons at the bottom of the page
 Welcome! I’m a PhD student in Emerging Digital Technologies @ Scuola Superiore Sant'Anna. My research is focused on the integration of AI technologies in NextG Wireless Networks to improve the responsiveness, energy efficiency and latency of applications.
 
 **Research interests** 
-<ul>
-  <li>Artificial Intelligence</li>
-  <li>Hardware Accelerators</li>
-  <li>NextG Wireless Networks</li>
-</ul>
+
+* Artificial Intelligence | Hardware Accelerators | NextG Wireless Networks *
