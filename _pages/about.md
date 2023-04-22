@@ -8,9 +8,9 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Via G. Moruzzi 1</p>
-    <p>Pisa, 56124</p>
+  #address: >
+  #  <p>Via G. Moruzzi 1</p>
+  #  <p>Pisa, 56124</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -20,6 +20,4 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome! I’m a PhD student in Emerging Digital Technologies @ Scuola Superiore Sant'Anna. My research is focused on the integration of AI technologies in NextG Wireless Networks to improve the responsiveness, energy efficiency and latency of applications.
 
-**Research interests** 
-
-* Artificial Intelligence | Hardware Accelerators | NextG Wireless Networks *
+**Research interests** : Artificial Intelligence, Hardware Accelerators, NextG Wireless Networks 
