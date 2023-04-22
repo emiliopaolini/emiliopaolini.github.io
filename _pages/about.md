@@ -12,10 +12,11 @@ profile:
   #  <p>Via G. Moruzzi 1</p>
   #  <p>Pisa, 56124</p>
 
+social: true  # includes social icons at the bottom of the page
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+
 ---
 
 Welcome! I’m a PhD student in Emerging Digital Technologies @ Scuola Superiore Sant'Anna. My research is focused on the integration of AI technologies in NextG Wireless Networks to improve the responsiveness, energy efficiency and latency of applications.
