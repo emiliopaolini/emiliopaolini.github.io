@@ -1,35 +1,27 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: "SelectedPublications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar
-        profile</a>.</div>
-{% endif %}
+<h1>Publications</h1>
 
-{% include base_path %}
+<h2>2024</h2>
+<ul>
+    <li>
+        <a href="#">In-line any-depth deep neural networks using P4 switches.</a>
+        Emilio Paolini, Lorenzo De Marinis, Davide Scano, Francesco Paolucci. IEEE Open Journal of the Communications
+        Society.
+    </li>
+    <li>
+        <a href="#">Hierarchical Software-Defined Control for coordinated RAN and PON-based Transport Scaling.</a>
+        Alessandro Pacini, Andrea Sgambelluri, Carlo Centofanti, Andrea Marotta, Emilio Paolini, Alessio Giorgetti, Luca
+        Valcarenghi. IEEE Network Operations and Management Symposium.
+    </li>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-{% for category in site.publication_category %}
-{% assign title_shown = false %}
-{% for post in site.publications reversed %}
-{% if post.category != category[0] %}
-{% continue %}
-{% endif %}
-{% unless title_shown %}
-<h2>{{ category[1].title }}</h2>
-<hr />
-{% assign title_shown = true %}
-{% endunless %}
-{% include archive-single.html %}
-{% endfor %}
-{% endfor %}
-{% else %}
-{% for post in site.publications reversed %}
-{% include archive-single.html %}
-{% endfor %}
-{% endif %}
+    <li>
+        <a href="#">Real-time clustering based on deep embeddings for threat detection in 6G networks.</a>
+        Emilio Paolini, Luca Valcanreghi, Luca Maggiani, Nicola Andriolli. IEEE Access.
+    </li>
+</ul>
